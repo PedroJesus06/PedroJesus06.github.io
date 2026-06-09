@@ -50,6 +50,6 @@ markdown_extensions:
 nav:
   - Principal: index.md
   - Prácticas:
-      - Práctica 1: practica.md
+      - Práctica 1: practica1.md
       - Práctica 2: practica2.md
   - ℹ️ Acerca de: about.md
